@@ -1,5 +1,7 @@
 # blog-template
-Example HTML / CSS / Boostrap Page - Blog template style
+<h1>
+A clean and organized Blog template </h1>
 
-I am Michele Cristina and this is a blog style template I am creating just as an example and an excuse to play around with bootstrap. I'll kept my css on the index page for now, since my layout decions are not final yet.
-It is completely irrelevant and the result is the same, it is just my process! My images are hosted at quietudeideal.com.
+This is a blog style template I am creating just as an example and an excuse to play around with bootstrap. 
+
+The images you see are hosted at quietudeideal.com and they are examples. Users should replace them with their own images. 
